@@ -1,0 +1,86 @@
+{
+  "H":{
+    "number": 1,
+    "name": "Водород",
+    "density": 0.000084,
+    "year": 1766,
+    "discoverer": "Кавендиш"
+  },
+  "He":{
+    "number": 2,
+    "name": "Гелий",
+    "density": 0.17,
+    "year": 1895,
+    "discoverer": "Локьер, Жансен, Рамзай"
+  },
+  "Li":{
+    "number": 3,
+    "name": "Литий",
+    "density": 0.53,
+    "year": 1817,
+    "discoverer": "Арфведсон"
+  },
+  "Be":{
+    "number": 4,
+    "name": "Бериллий",
+    "density": 1.85,
+    "year": 1797,
+    "discoverer": "Воклен"
+  },
+  "B":{
+    "number": 5,
+    "name": "Бор",
+    "density": 2.46,
+    "year": 1808,
+    "discoverer": "Дэви и Гей-Люссак"
+  },
+  "N":{
+    "number": 7,
+    "name": "Азот",
+    "density": 1.17,
+    "year": 1766,
+    "discoverer": "Резерфорд"
+  },
+  "Cr":{
+    "number": 24,
+    "name": "Хром",
+    "density": 7.14,
+    "year": 1797,
+    "discoverer": "Воклен"
+  },
+  "F":{
+    "number": 9,
+    "name": "Фтор",
+    "density": 1.58,
+    "year": 1886,
+    "discoverer": "Муассан"
+  },
+  "Ne":{
+    "number": 10,
+    "name": "Неон",
+    "density": 0.84,
+    "year": 1898,
+    "discoverer": "Рамзай и Траверс"
+  },
+  "Na":{
+    "number": 11,
+    "name": "Натрий",
+    "density": 0.97,
+    "year": 1807,
+    "discoverer": "Дэви"
+  },
+  "Mn":{
+    "number": 25,
+    "name": "Марганец",
+    "density": 7.44,
+    "year": 1774,
+    "discoverer": "Ган"
+  },
+  "Pt":{
+    "number": 78,
+    "name": "Платина",
+    "density": 21.45,
+    "year": 1557,
+    "discoverer": "Скалигер"
+  }
+}

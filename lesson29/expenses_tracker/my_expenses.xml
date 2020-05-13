@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<expenses>
+  <expense amount='1500' category='Образование' date='2020-05-01'>
+    Печать нужных книг
+  </expense>
+</expenses>

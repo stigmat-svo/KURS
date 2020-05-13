@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<expenses>
+  <expense date="08.02.2020" category="Образование" amount="21700">
+    Курс по Ruby on Rails. 1 месяц
+  </expense>
+  <expense date="08.03.2020" category="Образование" amount="21700">
+    Курс по Ruby on Rails. 2 месяц
+  </expense>
+  <expense date="08.04.2020" category="Образование" amount="21700">
+    Курс по Ruby on Rails. 3 месяц
+  </expense>
+</expenses>

@@ -1,0 +1,122 @@
+body {
+  background-color: #fff2e5;
+  font-family: "Fira Sans Condensed", sans-serif;
+  display: grid;
+  grid-template-areas:
+    "header header"
+    "foto info"
+    "products products"
+    "recipe recipe";
+  grid-template-rows: 100px 150px 550px 2800px;
+  grid-template-columns: 12% 1fr;
+  grid-row-gap: 30px;
+  grid-column-gap: 30px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+i {
+  color: #7da132;
+}
+
+ul li {
+  list-style: none;
+}
+
+a:hover {
+  color: #d84c00;
+}
+
+#header {
+  grid-area: header;
+}
+
+#info {
+  grid-area: info;
+  padding-top: 10px;
+}
+
+#foto {
+  grid-area: foto;
+  background: url("../img/main.jpg") no-repeat center / cover;
+  border: 1px solid #d84c00;
+}
+
+#products {
+  grid-area: products;
+  background-color: #d9e0a6;
+}
+
+#recipe {
+  grid-area: recipe;
+}
+
+@media (max-width: 575px) {
+  body {
+    margin-top: 0;
+
+    grid-template-areas:
+      "header"
+      "foto"
+      "info"
+      "products"
+      "recipe";
+    grid-template-rows: 100px 1fr 150px 1fr 2800px;
+    grid-template-columns: 1fr;
+    grid-gap: 50px;
+  }
+}
+
+#header p {
+  color: #d84c00;
+}
+
+h1,
+h2,
+h3 {
+  color: #d84c00;
+}
+
+.products-list {
+  margin: 50px;
+}
+
+.prod4 {
+  color: #547017;
+  font-size: 60%;
+  font-style: normal;
+}
+
+.li-light {
+  background-color: #e5eac2;
+  width: 300px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.recipe-in {
+  width: 500px;
+  margin-top: 50px;
+}
+
+.step-recipe {
+  border-top: 1px solid #d84c00;
+  width: 400px;
+  height: 220px;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.leftimg {
+  float: left;
+  margin-right: 20px;
+}
+
+.bon-apetit {
+  margin-top: 50px;
+  text-align: center;
+}

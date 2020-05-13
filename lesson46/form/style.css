@@ -1,0 +1,26 @@
+body {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.wrapper {
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.greet {
+  margin-bottom: 50px;
+}
+
+.logo1 {
+  width: 20px;
+  height: 15px;
+  background: url("./youtube.png") no-repeat center / cover;
+  margin-bottom: 10px;
+}
+
+.logo2 {
+  width: 50px;
+  height: 15px;
+  background: url("./rutube.png") no-repeat center / cover;
+  margin-bottom: 10px;
+}

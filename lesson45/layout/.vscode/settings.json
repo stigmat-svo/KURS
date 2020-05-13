@@ -1,0 +1,5 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.matchBrackets": false,
+  "editor.renderLineHighlight": "none"
+}

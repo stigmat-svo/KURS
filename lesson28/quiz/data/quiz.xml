@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<questions>
+  <question seconds="20" points="3">
+    <text>Кто разработал Ruby on Rails?</text>
+    <variants>
+      <variant>Зильберберт Зильбертрудович Зильберштейн</variant>
+      <variant>Василий Иванович Лебедев-Кумач</variant>
+      <variant right="true">Дэвид Хейнемейер Хэнссон</variant>
+      <variant>Джавахарлал Неру</variant>
+    </variants>
+  </question>
+  <question seconds="20" points="1">
+    <text>Сколько секунд в минуте?</text>
+    <variants>
+      <variant>30</variant>
+      <variant>4517</variant>
+      <variant right="true">60</variant>
+      <variant>59</variant>
+    </variants>
+  </question>
+  <question seconds="20" points="3">
+    <text>В каком году началась Великая Отечественная Война?</text>
+    <variants>
+      <variant>1939</variant>
+      <variant>1917</variant>
+      <variant right="true">1941</variant>
+      <variant>1940</variant>
+    </variants>
+  </question>
+  <question seconds="20" points="5">
+    <text>Сколько музыкантов в квинтете?</text>
+    <variants>
+      <variant>3</variant>
+      <variant>15</variant>
+      <variant right="true">5</variant>
+      <variant>4</variant>
+    </variants>
+  </question>
+  <question seconds="20" points="2">
+    <text>В каком году прекратил своё существование СССР?</text>
+    <variants>
+      <variant>1990</variant>
+      <variant>2000</variant>
+      <variant right="true">1991</variant>
+      <variant>1953</variant>
+    </variants>
+  </question>
+  <question seconds="20" points="4">
+    <text>Какого сентября произошла серия террактов на территории США в 2001 году?</text>
+    <variants>
+      <variant>9</variant>
+      <variant>23</variant>
+      <variant right="true">11</variant>
+      <variant>8</variant>
+    </variants>
+  </question>
+  <question seconds="20" points="5">
+    <text>В каком году произошла битва на Чудском озере?</text>
+    <variants>
+      <variant>1156</variant>
+      <variant>1760</variant>
+      <variant right="true">1242</variant>
+      <variant>1942</variant>
+    </variants>
+  </question>
+</questions>

@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body,
+.wrapper {
+  height: 100%;
+}
+
+body > .wrapper {
+  height: auto;
+  min-height: 100%;
+}
+
+.content {
+  width: 70%;
+  float: left;
+}
+
+.side {
+  width: 30%;
+  float: right;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+header {
+  height: 100px;
+  background-color: blue;
+  text-align: center;
+}
+
+footer {
+  position: relative;
+  margin-top: -60px;
+  height: 60px;
+  clear: both;
+  background-color: blue;
+}
+
+.clearfix:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+
+.article {
+  margin: 50px;
+  font-size: large;
+}
+
+.left {
+  float: left;
+  padding: 0 20px 10px 20px;
+  width: 300px;
+  height: 300px;
+}
+
+.button {
+  margin-top: 25px;
+  display: inline-block;
+  border-radius: 5px;
+  font-size: 16px;
+  text-decoration: none;
+  padding: 15px 30px;
+  text-shadow: 2px 1px 1px rgba(0, 0, 0, 0.15);
+  font-weight: bold;
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+}
+
+.button:hover {
+  text-shadow: 2px 1px 1px rgba(0, 0, 0, 0.15);
+  background-color: navy;
+  transition: all 0.5s;
+}

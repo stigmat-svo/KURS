@@ -1,0 +1,27 @@
+body {
+  background: url("../img/bg1.jpg") no-repeat fixed;
+  color: white;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.logo {
+  font-size: x-large;
+  text-align: center;
+}
+
+.article {
+  margin: 50px;
+  padding: 50px;
+  font-size: x-large;
+  border-top: 1px solid white;
+}
+
+.left {
+  float: left;
+  padding: 50px;
+}
+
+.right {
+  float: right;
+  padding: 50px;
+}
